@@ -1,6 +1,8 @@
 // video对象全局变量，并且初始化
+import utils from './utils';
 let video1 = resources['video/a1.mp4'];
 let video2 = resources['video/a2.mp4'];
+
 
 let iconBarArr = [
     'image/scene0/head1.png',
